@@ -25,7 +25,7 @@
 
 1. **一键运行**  
    ```bash
-   bash <(curl -l -s https://raw.githubusercontent.com/byJoey/Actions-bbr-x1/refs/heads/main/install.sh)
+   bash <(curl -l -s https://raw.githubusercontent.com/looplaps/Actions-bbr-x1/refs/heads/main/install.sh)
    ```
 
 ---
